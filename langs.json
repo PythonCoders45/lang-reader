@@ -1,0 +1,388 @@
+[
+  {
+    "name": "Python",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
+    "extension": [".py"],
+    "color": "#306998"
+  },
+  {
+    "name": "JavaScript",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    "extension": [".js"],
+    "color": "#F7DF1E"
+  },
+  {
+    "name": "Java",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg",
+    "extension": [".java"],
+    "color": "#007396"
+  },
+  {
+    "name": "C#",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png",
+    "extension": [".cs"],
+    "color": "#178600"
+  },
+  {
+    "name": "C++",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg",
+    "extension": [".cpp"],
+    "color": "#00599C"
+  },
+  {
+    "name": "Ruby",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg",
+    "extension": [".rb"],
+    "color": "#701516"
+  },
+  {
+    "name": "PHP",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg",
+    "extension": [".php"],
+    "color": "#4F5B93"
+  },
+  {
+    "name": "Go",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Go_Logo_Aqua.svg",
+    "extension": [".go"],
+    "color": "#00ADD8"
+  },
+  {
+    "name": "Swift",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg",
+    "extension": [".swift"],
+    "color": "#F05138"
+  },
+  {
+    "name": "Kotlin",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png",
+    "extension": [".kt"],
+    "color": "#7F52FF"
+  },
+  {
+    "name": "Rust",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg",
+    "extension": [".rs"],
+    "color": "#000000"
+  },
+  {
+    "name": "TypeScript",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/TypeScript_logo_2020.svg",
+    "extension": [".ts"],
+    "color": "#3178C6"
+  },
+  {
+    "name": "SQL",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_Logo.svg",
+    "extension": [".sql"],
+    "color": "#F29111"
+  },
+  {
+    "name": "Shell",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/64/Bash_logo.svg",
+    "extension": [".sh"],
+    "color": "#4EAA25"
+  },
+  {
+    "name": "Perl",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Perl_logo.svg",
+    "extension": [".pl"],
+    "color": "#0298C3"
+  },
+  {
+    "name": "Lua",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Lua-Logo.svg",
+    "extension": [".lua"],
+    "color": "#2C2D72"
+  },
+  {
+    "name": "R",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg",
+    "extension": [".r"],
+    "color": "#276DC3"
+  },
+  {
+    "name": "Scala",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Scala_logo.svg",
+    "extension": [".scala"],
+    "color": "#DC322F"
+  },
+  {
+    "name": "Objective-C",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/42/Objective-C_logo.svg",
+    "extension": [".m"],
+    "color": "#666666"
+  },
+  {
+    "name": "Dart",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Dart_logo_2.svg",
+    "extension": [".dart"],
+    "color": "#00B4AB"
+  }
+]
+[
+  {
+    "name": "Haskell",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Haskell_logo.svg",
+    "extension": [".hs"],
+    "color": "#5E5086"
+  },
+  {
+    "name": "Elixir",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/6/63/Elixir_logo.svg",
+    "extension": [".ex"],
+    "color": "#6E4A7E"
+  },
+  {
+    "name": "Clojure",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Clojure-logo.svg",
+    "extension": [".clj"],
+    "color": "#DB5855"
+  },
+  {
+    "name": "F#",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/F_Sharp_logo.svg",
+    "extension": [".fs"],
+    "color": "#b84592"
+  },
+  {
+    "name": "VB.NET",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/Visual_Basic_Logo.svg",
+    "extension": [".vb"],
+    "color": "#945DB7"
+  },
+  {
+    "name": "Assembly",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Assembly_language_logo.svg",
+    "extension": [".asm"],
+    "color": "#6E4C13"
+  },
+  {
+    "name": "ActionScript",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/ActionScript_logo.svg",
+    "extension": [".as"],
+    "color": "#882B0F"
+  },
+  {
+    "name": "VHDL",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/VHDL_logo.svg",
+    "extension": [".vhdl"],
+    "color": "#5E5E5E"
+  },
+  {
+    "name": "Verilog",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Verilog_logo.svg",
+    "extension": [".v"],
+    "color": "#5E5E5E"
+  },
+  {
+    "name": "Tcl",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Tcl_logo.svg",
+    "extension": [".tcl"],
+    "color": "#E4CC98"
+  },
+  {
+    "name": "OCaml",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/OCaml_logo.svg",
+    "extension": [".ml"],
+    "color": "#3BE4A1"
+  },
+  {
+    "name": "Ada",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ada_logo.svg",
+    "extension": [".adb"],
+    "color": "#00205B"
+  },
+  {
+    "name": "COBOL",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2e/COBOL_logo.svg",
+    "extension": [".cob"],
+    "color": "#0044CC"
+  },
+  {
+    "name": "Fortran",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Fortran_logo.svg",
+    "extension": [".f90"],
+    "color": "#000080"
+  },
+  {
+    "name": "Prolog",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Prolog_logo.svg",
+    "extension": [".pl"],
+    "color": "#742C2C"
+  },
+  {
+    "name": "Smalltalk",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Smalltalk_logo.svg",
+    "extension": [".st"],
+    "color": "#6E4C3B"
+  },
+  {
+    "name": "Logo",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_Programming_Language_Logo.svg",
+    "extension": [".logo"],
+    "color": "#F2A900"
+  },
+  {
+    "name": "Crystal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Crystal_Programming_Language_Logo.svg",
+    "extension": [".cr"],
+    "color": "#000000"
+  },
+  {
+    "name": "Nim",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nim_logo.svg",
+    "extension": [".nim"],
+    "color": "#37775B"
+  },
+  {
+    "name": "Zig",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Zig_Programming_Language_Logo.svg",
+    "extension": [".zig"],
+    "color": "#F5A300"
+  }
+]
+[
+  {
+    "name": "Crystal",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Crystal_Programming_Language_Logo.svg",
+    "extension": [".cr"],
+    "color": "#000000"
+  },
+  {
+    "name": "Nim",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nim_logo.svg",
+    "extension": [".nim"],
+    "color": "#37775B"
+  },
+  {
+    "name": "Zig",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Zig_Programming_Language_Logo.svg",
+    "extension": [".zig"],
+    "color": "#F5A300"
+  },
+  {
+    "name": "Solidity",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/9/99/Solidity_logo.svg",
+    "extension": [".sol"],
+    "color": "#363636"
+  },
+  {
+    "name": "Elm",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Elm_logo.svg",
+    "extension": [".elm"],
+    "color": "#60B5CC"
+  },
+  {
+    "name": "Groovy",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/39/Groovy-logo.svg",
+    "extension": [".groovy"],
+    "color": "#E69F56"
+  },
+  {
+    "name": "CoffeeScript",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/CoffeeScript_logo.png",
+    "extension": [".coffee"],
+    "color": "#244776"
+  },
+  {
+    "name": "Scheme",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/Scheme_Logo.svg",
+    "extension": [".scm", ".ss"],
+    "color": "#1E4A7B"
+  },
+  {
+    "name": "D",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/D_Programming_Language_logo.svg",
+    "extension": [".d"],
+    "color": "#BA595E"
+  },
+  {
+    "name": "ABAP",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/ABAP_Logo.svg",
+    "extension": [".abap"],
+    "color": "#E8274B"
+  },
+  {
+    "name": "Racket",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket_logo.svg",
+    "extension": [".rkt"],
+    "color": "#22228F"
+  },
+  {
+    "name": "awk",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/57/AWK_logo.svg",
+    "extension": [".awk"],
+    "color": "#000000"
+  },
+  {
+    "name": "PowerShell",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png",
+    "extension": [".ps1"],
+    "color": "#012456"
+  },
+  {
+    "name": "Hack",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hack_logo.svg",
+    "extension": [".hack"],
+    "color": "#878787"
+  },
+  {
+    "name": "ColdFusion",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/f0/ColdFusion_logo.svg",
+    "extension": [".cfm", ".cfc"],
+    "color": "#ED8B00"
+  },
+  {
+    "name": "VBA",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/VBA_logo.png",
+    "extension": [".vba", ".bas"],
+    "color": "#867DB1"
+  },
+  {
+    "name": "LabVIEW",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/LabVIEW_logo.svg",
+    "extension": [".vi", ".lvproj"],
+    "color": "#FFB100"
+  },
+  {
+    "name": "Forth",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Forth_logo.svg",
+    "extension": [".fth", ".fs"],
+    "color": "#0033A0"
+  },
+  {
+    "name": "PostScript",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0c/PostScript_logo.svg",
+    "extension": [".ps"],
+    "color": "#FF0000"
+  },
+  {
+    "name": "Erlang",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/5/59/Erlang_logo.svg",
+    "extension": [".erl"],
+    "color": "#B83998"
+  }
+]
+[
+  { "name": "HTML", "logo": "https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg", "extension": [".html", ".htm"], "color": "#E34F26" },
+  { "name": "CSS", "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg", "extension": [".css"], "color": "#1572B6" },
+  { "name": "XML", "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/XML_Logo.svg", "extension": [".xml"], "color": "#0060AC" },
+  { "name": "JSON", "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg", "extension": [".json"], "color": "#000000" },
+  { "name": "Markdown", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg", "extension": [".md"], "color": "#083FA1" },
+  { "name": "GraphQL", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg", "extension": [".graphql", ".gql"], "color": "#E10098" },
+  { "name": "Dockerfile", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg", "extension": ["Dockerfile"], "color": "#2496ED" },
+  { "name": "Makefile", "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6f/GNU_make_logo.svg", "extension": ["Makefile"], "color": "#427819" },
+  { "name": "CMake", "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/CMake_Logo.svg", "extension": ["CMakeLists.txt", ".cmake"], "color": "#DA3434" },
+  { "name": "INI", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/19/INI_file_icon.svg", "extension": [".ini"], "color": "#D1D1D1" },
+  { "name": "TOML", "logo": "https://upload.wikimedia.org/wikipedia/commons/3/30/TOML_logo.svg", "extension": [".toml"], "color": "#9C4221" },
+  { "name": "YAML", "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/YAML_logo.svg", "extension": [".yaml", ".yml"], "color": "#CB171E" },
+  { "name": "HCL", "logo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/HashiCorp_HCL_logo.svg", "extension": [".hcl"], "color": "#F7DE3E" },
+  { "name": "Eiffel", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/44/Eiffel_logo.svg", "extension": [".e"], "color": "#946D5C" },
+  { "name": "Nix", "logo": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nix_Logo.svg", "extension": [".nix"], "color": "#7EED56" },
+  { "name": "Agda", "logo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Agda_logo.svg", "extension": [".agda"], "color": "#315665" },
+  { "name": "Wolfram", "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Wolfram_Language_Logo.svg", "extension": [".wl", ".nb"], "color": "#DD1100" },
+  { "name": "IDL", "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5f/IDL_Logo.svg", "extension": [".pro"], "color": "#A52A2A" },
+  { "name": "J", "logo": "https://upload.wikimedia.org/wikipedia/commons/2/21/J_programming_language_logo.svg", "extension": [".ijs"], "color": "#2C2E83" },
+  { "name": "Puppet", "logo": "https://upload.wikimedia.org/wikipedia/commons/9/97/Puppet_logo.svg", "extension": [".pp"], "color": "#302B6D" }
+]
